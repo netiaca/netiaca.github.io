@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://netiaca.github.io/jpO/jpO.txt
